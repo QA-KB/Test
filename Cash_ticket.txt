@@ -1,0 +1,2 @@
+Error log check in table,
+select * from ADA.T_CASH_FILE_LOAD_MONITOR order by LAST_UPDT_DT_TM desc;
